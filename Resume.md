@@ -1,49 +1,95 @@
 # Zhao Li
 
-**AI Trainer | Physics AI Evaluator | High School Physics Teacher**  
+**AI Trainer | Physics Reasoning Evaluator | LLM Evaluation**
 Beijing, China | GitHub: https://github.com/lizhao077-netizen/AI-Physics-Evaluation-Benchmark
 
 ---
 
 ## Professional Summary
 
-High school physics teacher with **3,000+ hours** of one-to-one teaching experience. Specialized in evaluating AI-generated physics solutions for accuracy, physical modeling, reasoning quality, and teaching value. Built an open-source benchmark of real teacher-AI interactions to identify model failure modes and improve AI-generated explanations for high school physics.
+Physics educator with more than **3,000 hours** of one-to-one teaching experience and a strong focus on evaluating reasoning quality in large language models.
 
-## Core Skills
+Built an open-source AI Physics Evaluation Benchmark that systematically reviews AI-generated physics solutions through multi-round evaluation, teacher feedback, and reasoning analysis.
 
-Physics Reasoning Evaluation • High School Physics • LLM Evaluation • Rubric-based Review • Error Analysis • Physical Modeling • Multi-round AI Evaluation • AI Tutor Assessment • Educational Content Review • Markdown • GitHub
+Experienced in identifying incorrect physical modeling, hidden assumptions, logical inconsistencies, and educational risks in AI-generated content.
+
+Interested in AI Trainer, Physics Evaluator, Benchmark Development, and LLM Reasoning Review roles.
+
+## Selected Skills
+
+### AI Evaluation
+
+- LLM Response Evaluation
+- Physics Reasoning Review
+- Multi-round AI Feedback
+- Error Classification
+- Rubric-based Evaluation
+- AI Tutor Review
+- Prompt Evaluation
+- Educational Content Review
+
+### Physics
+
+- High School Physics
+- Mechanics
+- Electromagnetism
+- Force Analysis
+- Relative Motion
+- Physical Modeling
+
+### Technical
+
+- Benchmark Construction
+- Benchmark Design
+- Scientific Writing
+- Markdown
+- GitHub
+- Obsidian
+- AI-assisted Workflow
 
 ## Featured Project
 
-### AI Physics Evaluation Benchmark - Open-source evaluation portfolio
+### AI Physics Evaluation Benchmark - Open-source Benchmark for LLM Physics Reasoning Evaluation
 
 https://github.com/lizhao077-netizen/AI-Physics-Evaluation-Benchmark
 
-- Created a structured benchmark for evaluating large language models on high school physics reasoning and instructional quality.
-- Reviewed 18+ AI-generated physics responses across 5 complete evaluation cases.
-- Identified recurring model failure modes, including missing force analysis, incorrect physical modeling, geometry interpretation errors, conditional reasoning failures, and constraint-modeling mistakes.
-- Designed a reusable workflow: original problem, AI response, teacher evaluation, feedback, revision, final evaluation, and improved teaching solution.
-- Produced teacher-level feedback and improved explanations that focus on student understanding rather than answer correctness alone.
+Designed and developed an open-source benchmark for evaluating reasoning quality in AI-generated high school physics solutions.
 
-## Teaching Experience
+Project Highlights:
 
-### High School Physics Tutor | Self-employed | China
+- Built 5 standardized evaluation cases
+- Reviewed 18+ AI-generated responses
+- Developed a reusable evaluation workflow
+- Designed teacher-level evaluation rubrics
+- Compared first-pass and revised AI reasoning
+- Produced benchmark-quality teacher feedback
 
-- Delivered **3,000+ hours** of one-to-one high school physics instruction.
-- Specialized in mechanics, electromagnetism, friction, circular motion, and complex multi-step problem solving.
-- Diagnosed student misconceptions and translated difficult physics reasoning into clear, step-by-step explanations.
-- Created structured feedback for students, focusing on physical modeling, assumption checking, and reasoning quality.
+Major Error Categories Identified:
 
-## Relevant AI Evaluation Experience
+- Missing force analysis
+- Incorrect physical modeling
+- Geometry interpretation errors
+- Conditional reasoning failures
+- Constraint modeling failures
 
-- Evaluated whether AI answers were physically correct, logically consistent, and suitable for classroom use.
-- Performed multi-round response evaluation by identifying hidden assumptions and testing whether model revisions actually corrected the underlying reasoning.
-- Built standardized case files and summary statistics suitable for AI trainer, AI evaluator, STEM tutor, and RLHF-style tasks.
+## Professional Experience
+
+### High School Physics Tutor | Self-employed | Beijing, China
+
+- Delivered over **3,000 hours** of personalized physics instruction.
+- Guided students in mechanics, electromagnetism, and scientific reasoning.
+- Specialized in identifying misconceptions and improving logical reasoning.
+- Designed structured learning feedback and error analysis.
 
 ## Languages
 
-Chinese: Native | English: Professional reading and technical writing
+Chinese — Native
+English — Professional Reading & Technical Writing
 
-## Target Roles
+## Interests
 
-AI Trainer • Physics AI Evaluator • STEM AI Tutor • Educational AI Reviewer • RLHF Evaluator
+- AI Evaluation
+- AI Trainer
+- Physics Education
+- Benchmark Development
+- Educational AI
